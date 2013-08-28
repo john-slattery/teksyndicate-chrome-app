@@ -1,0 +1,16 @@
+{
+	"name":"Tek Syndicate",
+	"version":"0.0.1",
+	"manifest_version":2,
+	"description":"Quick access to teksyndicate.com!",
+	"app":{
+			"urls":["https://teksyndicate.com/"],
+			"launch":{
+					"web_url":"https://teksyndicate.com/"
+			}
+	},
+	"icons":{
+			"128":"icons/tsca.png"
+	}
+
+}
