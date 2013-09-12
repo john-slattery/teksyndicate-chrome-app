@@ -12,7 +12,7 @@ Click, load unpacked extension.
 
 Unzip the project.
 
-Select "Tek Syndicate Chrome App" folder, in the appropriate directory that you extracted the zip. It should be in the same directory as the README.md file.
+Select "Tek Syndicate Chrome App" folder, in the appropriate directory that you extracted the zip. It should be in the same directory as the ReadMe.txt file.
 
 Install.
 
